@@ -2,7 +2,7 @@ Program SMK
 -Membuat Jurusan smk
 -Membuat data siswa
 -Membuaat data guru
--Membuat blog guru
 -Membuat flatform untuk tutorial video pembelajaran
 -Membuat login UTS
 -Membuat Profil Lulusan
+-Data UNBK
