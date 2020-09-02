@@ -5,3 +5,4 @@ Program SMK
 -Membuat blog guru
 -Membuat flatform untuk tutorial video pembelajaran
 -Membuat login UTS
+-Membuat Profil Lulusan
