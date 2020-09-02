@@ -1,2 +1,2 @@
 # repo-smk
-untuk menyimpan rencana 
+untuk menyimpan rencana File smk
